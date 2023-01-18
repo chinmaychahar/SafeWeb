@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #f1faee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+  }
+  main {
+    padding: 0 150px;
+  }
+  h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 100px;
+  }
+  .container {
+    margin-top: 100px;
+  }
+  li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 12px;
+  }
