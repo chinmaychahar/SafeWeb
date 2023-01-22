@@ -1,7 +1,7 @@
 {
-    "name": "WebAid",
+    "name": "SafeWeb",
     "version": "1.0",
-    "description": "An extension to help people with visual impairments navigate the web more easily.",
+    "description": "An extension to help prevent eye strain and follow the 20-20-20 rule.",
     "manifest_version": 2,
     "background": {
       "scripts": [
