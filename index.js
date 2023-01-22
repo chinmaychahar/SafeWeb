@@ -12,8 +12,8 @@ function restoreOptions() {
   let alarmClock = {
     onHandler: function (e) {
       chrome.alarms.create('eyeAlarm', {
-        delayInMinutes: 1,
-        periodInMinutes: 1,
+        delayInMinutes: 20,
+        periodInMinutes: 20,
       });
       setTimeout(()=>{
         window.close();

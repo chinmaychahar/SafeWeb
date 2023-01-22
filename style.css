@@ -1,10 +1,8 @@
 body {
-    background: #FDC830;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #3542f3, #30b2fd);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #3542f3, #30b2fd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
-  
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+  background: #acd2e9;  
+  background: -webkit-linear-gradient(to left, #444550, #acd2e9); 
+  background: linear-gradient(to left, #444550, #acd2e9); 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
       'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   main {
@@ -41,7 +39,7 @@ body {
     border: 1px solid ivory
   }
   .text {
-    display: inline-block; /* would be block accept for side text */
+    display: inline-block; 
     display: inline-block;
     font-size: 20px;
     align-self: center;
