@@ -9,10 +9,11 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/chinmaychahar/SafeWeb?logo=github&style=for-the-badge)](https://github.com/chinmaychahar/) 
 [![Languages](https://img.shields.io/github/languages/count/chinmaychahar/SafeWeb?style=for-the-badge)](https://github.com/chinmaychahar/SafeWeb)
 
+
 </div>
 
 ## Table of Contents
-
+    - Introduction 
     - Tech Stack
     - Setup Guide
     - Contribution Guidelines
