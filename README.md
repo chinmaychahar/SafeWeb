@@ -1,4 +1,4 @@
-<img src="https://github.com/chinmaychahar/SafeWeb/blob/main/assets/safeweb.gif" align="centre" width="100%"/>
+<img src="https://github.com/chinmaychahar/SafeWeb/blob/main/assets/safeweb_intro.gif" align="centre" width="100%"/>
 
 
 <div align="center">
