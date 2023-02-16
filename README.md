@@ -17,7 +17,8 @@
     - Scalability
     - Setup Guide
     - Contribution Guidelines
-
+    - License
+    
  <br />
 
 ## 💙 Introduction
@@ -54,6 +55,9 @@ The project can be scaled to fulfill huge possibilities. The current scalable pa
 - Gamification: Adding game-like features, such as points, badges, and leaderboards, could encourage users to take regular breaks and follow the 20-20-20 rule. This would make the experience more engaging and potentially increase user retention.
 
 - Analytics: Collecting usage data and analyzing it could provide insights into user behavior and help improve the effectiveness of SafeWeb. This could also be useful for identifying user pain points and improving the user experience.
+
+- Accessibility features: SafeWeb could be designed with accessibility features, such as text-to-speech and screen reader support, to make it more accessible to users with disabilities.
+
 
 ## 🔨 Setup Guide
 
