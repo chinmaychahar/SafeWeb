@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="IMReader" title="IMReader" src="https://socialify.git.ci/chinmaychahar/SafeWeb/image?description=1&descriptionEditable=Browser%20extension%20to%20help%20following%20the%2020-20-20%20rule%20&font=KoHo&name=1&owner=1&pattern=Brick%20Wall&theme=Light" height="400px" width="700px">
-  </a>
-</p>
+<img src="https://github.com/chinmaychahar/SafeWeb/blob/main/assets/safeweb.gif" align="centre" width="100%"/>
+
 
 <div align="center">
 
