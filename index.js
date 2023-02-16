@@ -12,8 +12,8 @@ function restoreOptions() {
   let alarmClock = {
     onHandler: function (e) {
       chrome.alarms.create('eyeAlarm', {
-        delayInMinutes: 20,
-        periodInMinutes: 20,
+        delayInMinutes: 1,
+        periodInMinutes: 1,
       });
       setTimeout(()=>{
         window.close();
@@ -55,6 +55,17 @@ function restoreOptions() {
       });
     },
   };
+
+  // function for countdown timer - in progress
+
+  /* var counter=40;
+  setinterval(function(){
+    counter--;
+    if(counter>=0){
+      id=document.getElementById("count");
+      id.innerHTML=counter;
+    }
+  },1000); */
   
   document.addEventListener('DOMContentLoaded', function () {
     restoreOptions();
