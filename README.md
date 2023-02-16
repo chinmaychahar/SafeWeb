@@ -11,8 +11,10 @@
 
 ## Table of Contents
     - Introduction 
+    - Problem it solves
     - Tech Stack
     - Screengrabs
+    - Scalability
     - Setup Guide
     - Contribution Guidelines
 
@@ -23,6 +25,12 @@ SafeWeb is a browser extension that aims to promote healthy computer habits by h
 - The 20-20-20 rule is a well-known guideline that recommends taking a 20-second break every 20 minutes and focusing 20 feet away. 
 - The goal is to reduce eye strain and prevent long-term damage to vision caused by prolonged computer use. 
 - With its customizable settings and user-friendly design, SafeWeb is a great addition to any computer user's toolkit.
+
+## 💙 Problem it solves
+I developed SafeWeb because I realize the negative effects of prolonged computer use on my vision and overall health. Studies have shown that regularly taking short breaks can reduce the risk of developing computer vision syndrome, which can lead to dry eyes, headaches, and blurred vision. [[Reference Study]](https://avehjournal.org/index.php/aveh/article/view/554/1316)
+
+However, I found it challenging to remember to take these breaks regularly. That's why I created SafeWeb, a browser extension that displays a friendly reminder after 20 minutes of continuous computer use, encouraging users to take a 20-second break and look at an object 20 feet away. With SafeWeb, I am able to take care of my health while still being productive on my computer.
+
 
 ## 📍 Tech Stack
 
@@ -40,6 +48,15 @@ SafeWeb is a browser extension that aims to promote healthy computer habits by h
     <td><img src="https://github.com/chinmaychahar/SafeWeb/blob/main/assets/screen3.png" width=100% height=260></td>
   </tr>
 </table>
+
+## 🌺 Scalability
+
+The project can be scaled to fulfill huge possibilities. The current scalable paths comprise of :
+- Multi-language support: SafeWeb currently supports one language, but adding support for multiple languages could expand its reach to a wider audience, especially those who do not speak the language currently supported.
+
+- Gamification: Adding game-like features, such as points, badges, and leaderboards, could encourage users to take regular breaks and follow the 20-20-20 rule. This would make the experience more engaging and potentially increase user retention.
+
+- Analytics: Collecting usage data and analyzing it could provide insights into user behavior and help improve the effectiveness of SafeWeb. This could also be useful for identifying user pain points and improving the user experience.
 
 ## 🔨 Setup Guide
 
