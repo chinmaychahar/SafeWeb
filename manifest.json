@@ -23,6 +23,5 @@
     "default_popup": "popup.html",
     "default_title": "SafeWeb"
   },
-  "permissions": ["tabs", "alarms", "storage", "notifications"],
-  "host_permissions": ["<all_urls>"]
+  "permissions": ["tabs", "alarms", "storage", "notifications"]
 }
