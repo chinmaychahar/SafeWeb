@@ -19,8 +19,6 @@
     - Contribution Guidelines
     - License
     
- <br />
-
 ## 💙 Introduction
 SafeWeb is a browser extension that aims to promote healthy computer habits by helping users build the habit of following the 20-20-20 rule. With its customizable settings and user-friendly design, SafeWeb is a great addition to any computer user's toolkit.
 
