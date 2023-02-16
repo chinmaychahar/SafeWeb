@@ -1,34 +1,28 @@
 {
-    "name": "SafeWeb",
-    "version": "1.0",
-    "description": "An extension to help you prevent eye strain and follow the 20-20-20 rule.",
-    "manifest_version": 2,
-    "background": {
-      "scripts": [
-        "background.js"
-      ]
-    },
-    "icons": {
+  "name": "SafeWeb",
+  "version": "1.0",
+  "description": "An extension to help you prevent eye strain and follow the 20-20-20 rule.",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16": "icons/favicon-16x16.png",
+    "32": "icons/favicon-32x32.png",
+    "192": "icons/favicon-192x192.png",
+    "512": "icons/favicon-512x512.png"
+  },
+  "action": {
+    "default_icon": {
       "16": "icons/favicon-16x16.png",
       "32": "icons/favicon-32x32.png",
       "192": "icons/favicon-192x192.png",
       "512": "icons/favicon-512x512.png"
-
     },
-    "browser_action": {
-      "default_icon": {
-        "16": "icons/favicon-16x16.png",
-        "32": "icons/favicon-32x32.png",
-        "192": "icons/favicon-192x192.png",
-        "512": "icons/favicon-512x512.png"
-
-      },
-      "default_popup": "popup.html",
-      "default_title": "SafeWeb"
-    },
-    "permissions": [
-      "tabs",
-      "alarms",
-      "storage"
-    ]
-  }
+    "default_popup": "popup.html",
+    "default_title": "SafeWeb"
+  },
+  "permissions": ["tabs", "alarms", "storage", "notifications"],
+  "host_permissions": ["<all_urls>"]
+}
