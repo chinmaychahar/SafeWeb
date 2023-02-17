@@ -1,4 +1,4 @@
-const SECONDS_EXPECTED = 20;
+const SECONDS_EXPECTED = 40;
 const ONE_SECOND = 1000;
 const counterTag = document.getElementById("count");
 
